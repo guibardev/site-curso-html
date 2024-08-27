@@ -4,12 +4,12 @@
 }
 
 body {
-    background-color: azure;
+    background-color: rgb(147, 159, 159);
 
 }
 
 main{
-    background-color: rgb(88, 150, 179);
+    background-color: rgb(200, 209, 29);
     width: 500px;
     margin: auto;
     padding: 10px
